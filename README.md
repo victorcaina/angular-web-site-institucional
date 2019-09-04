@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/victorcaina/angular-web-site-institucional.svg?branch=first-commit)](https://travis-ci.org/victorcaina/angular-web-site-institucional)
+
 # AngularWebSiteInstitucional
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
